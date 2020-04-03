@@ -1,0 +1,39 @@
+﻿
+<document>
+<location>
+        <name>Paris</name>
+        <latitude>48.856667</latitude>
+        <longitude>2.350987</longitude>
+        <type>city</type>
+        <target></target>
+        <imageurl>Insert image</imageurl>
+        <description>France</description>
+    </location>
+  <location>
+        <name>New York</name>
+        <latitude>43.320359</latitude>
+        <longitude>-75.162226</longitude>
+        <type>city</type>
+        <target></target>
+        <imageurl>Insert image</imageurl>
+        <description>USA</description>
+    </location>
+  <location>
+        <name>Sydney</name>
+        <latitude>-33.868901</latitude>
+        <longitude>151.207091</longitude>
+        <type>town</type>
+        <target></target>
+        <imageurl>Insert image</imageurl>
+        <description>Australia</description>
+    </location>
+  <location>
+        <name>Tokio</name>
+        <latitude>35.689488</latitude>
+        <longitude>139.691706</longitude>
+        <type>city</type>
+        <target></target>
+        <imageurl>Insert image</imageurl>
+        <description>Japan</description>
+    </location>
+</document>

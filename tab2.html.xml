@@ -1,0 +1,78 @@
+<document>
+  <location>
+    <name>1912 Pike Place, Seattle, WA</name>
+    <latitude>47.6099858</latitude>
+    <longitude>-122.342605</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>Insert image</imageurl>
+    <description>France</description>
+  </location>
+  <location>
+    <name>200 University Street, Seattle, WA</name>
+    <latitude>47.607827</latitude>
+    <longitude>-122.337549</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>Insert image</imageurl>
+    <description>USA</description>
+  </location>
+  <location>
+    <name>600 University Street, Seattle, WA</name>
+    <latitude>47.60981</latitude>
+    <longitude>-122.3317723</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>Insert image</imageurl>
+    <description>Australia</description>
+  </location>
+  <location>
+    <name>1501 Fourth Avenue, Seattle, WA</name>
+    <latitude>47.610246</latitude>
+    <longitude>-122.336819</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>Insert image</imageurl>
+    <description>Japan</description>
+  </location>
+  <location>
+    <name>999 3rd Ave, Seattle, WA</name>
+    <latitude>47.60495</latitude>
+    <longitude>-122.33377</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>
+    </imageurl>
+    <description>
+    </description>
+  </location>
+  <location>
+    <name>502 Second Avenue, Seattle, WA</name>
+    <latitude>47.601961</latitude>
+    <longitude>-122.331724</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>
+    </imageurl>
+    <description>
+    </description>
+  </location>
+  <location>
+    <name>620 Denny Way, Seattle, WA</name>
+    <latitude>47.6186004</latitude>
+    <longitude>-122.3443846</longitude>
+    <target>
+    </target>
+    <type>City</type>
+    <imageurl>
+    </imageurl>
+    <description>
+    </description>
+  </location>
+</document>

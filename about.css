@@ -1,0 +1,35 @@
+body
+{
+background: #000
+}
+.about-us-container
+{
+display: block;
+margin: 15px 20px;
+height: auto;
+
+}
+.about-us-title
+{
+color: #fff;
+margin: 0 0 5px;
+padding: 0;
+font-size: 14px;
+
+}
+.about-us-content
+{
+display: block;
+color: #efebda;
+font-weight: normal;
+text-decoration: none;
+background-color: transparent;
+margin: auto;
+padding: 10pt;
+max-width: 100%;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 10px 0px;
+  border-bottom: solid 1px #222
+}
+

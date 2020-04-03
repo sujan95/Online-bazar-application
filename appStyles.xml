@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styles version="2"><style name="Theme.App" parent="Theme.Base"><item name="appBarStyle">@style/View.App.AppBar</item><item name="tabBarStyle">@style/View.App.TabBar</item><item name="accentColor">#ea4b24</item></style><style name="View.App.AppBar"/><style name="View.App.TabBar"/>	<style name="Theme.Main" parent="@style/AppBaseTheme">
+		<item name="accentColor">#ea4b24</item>
+		<item name="actionBarStyle">@style/ActionBarStyle</item>
+		<item name="tabBarStyle">@style/TabBarStyle</item>
+	</style>
+	<style name="ActionBarStyle">
+		<item name="accentColor">#ea4b24</item>
+		</style>
+	<style name="TabBarStyle">
+		<item name="accentColor">#ea4b24</item>
+	</style>
+</styles>
